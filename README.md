@@ -10,7 +10,7 @@ python word_count.py path/to/file.txt
 ```
 
 It will print the total number of words and the top 5 most frequent words.
-This is useful when you want to quickly recieve a summary of a document
+This is useful when you want to quickly receive a summary of a document
 without opening it in a full text editor.
 
 ## Running tests
